@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently working as Software Developer at [Romagnole](https://romagnole.com.br)
 - 💻 PHP, Node, Typescript, ReactJS, React Native
-- ✨ Learning is continuous and there will always be a next level
+- ✨ If your dreams don't scare you, you're not dreaming big enough.
 
 </br>
 <a href="https://linkedin.com/in/danilodecanini"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
