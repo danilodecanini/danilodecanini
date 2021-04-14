@@ -7,8 +7,8 @@
 - ✨ If your dreams don't scare you, you're not dreaming big enough.
 
 </br>
-<a href="https://linkedin.com/in/danilodecanini"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/danilodecanini"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
 </br>
-<a href="https://instagram.com/danilodecanini"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://instagram.com/danilodecanini"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=flat-square&logo=instagram&logoColor=white"></a>
 </br>
-<a href="mailto:danilodecanini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
+<a href="mailto:danilodecanini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=flat-square&logo=GMail&logoColor=white"></a>
