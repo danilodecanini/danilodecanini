@@ -4,7 +4,7 @@
 
 - 🚀 I’m currently working as back-end developer at [aiqfome](https://aiqfome.com/) 💜
 - 💻 PHP, Node, Typescript, ReactJS, React Native
-- ✨ If your dreams don't scare you, you're not dreaming big enough.
+- ✨ Know that you deserve. And don't settle for less.
 
 </br>
 <a href="https://linkedin.com/in/danilodecanini"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat-square&logo=linkedin&logoColor=white"></a>
