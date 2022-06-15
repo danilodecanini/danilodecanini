@@ -2,7 +2,7 @@
 
 ### Hey! I'm Danilo and this is my Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-- 🚀 I’m currently working as full stack developer at [Gazin Tech](http://gazin.com.br/)
+- 🚀 I’m currently working as Software Engineer at [Gazin Tech](http://gazin.com.br/)
 - 💻 Node, Typescript, ReactJS, React Native, PHP
 - ✨ Know that you deserve. And don't settle for less.
 
